@@ -84,8 +84,9 @@ section > div{
 
 }
 .prez{
+    margin :0%;
     border-bottom: 2px dashed #ccc;
-    text-align: left;
+    text-align: center;
     
 }
 .prez a{
