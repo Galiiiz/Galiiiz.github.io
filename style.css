@@ -73,7 +73,7 @@ section > div{
 
 /*SECTION INFOS*/
 .photo{
-    text-align: left;
+    text-align: center;
 }
 .photo img{
     width: 150px;
@@ -85,7 +85,7 @@ section > div{
 }
 .prez{
     border-bottom: 2px dashed #ccc;
-    text-align:right top;
+    text-align: center;
     
 }
 .prez a{
@@ -268,7 +268,3 @@ section > div{
         flex: 0 1 25%;
     }
 }
-
-
-
-Resources1× 0.5× 0.25×Rerun
